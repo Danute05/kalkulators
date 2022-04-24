@@ -19,6 +19,7 @@ What problem are we trying to solve? Who’s the target audience? Is there a cus
 @@ -41,3 +41,14 @@ Things we are explicitly not doing or supporting or that are out of scope, inclu
 <!--
 Show as much of the experience as needed to explain the idea. This can be as simple as a napkin drawing but can also be a code prototype, or a design comp. Keep it simple at this stage, as it can be refined later during the pre-production stage.
+
 -->
 
 **Requested Assignment**
